@@ -7,7 +7,7 @@
 ---
 
 ## Table of Contents
-1. [Subtraction](#1-subtraction)
+1. [Subtraction](#subtraction)
 2. [Pascal or Camel Case](#2-pascal-or-camel-case)
 3. [Accordion](#3-accordion)
 4. [Search in List](#4-search-in-list)
