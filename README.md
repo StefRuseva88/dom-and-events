@@ -17,6 +17,9 @@
 8. [Fill Dropdown](#8-fill-dropdown)
 9. [Encode and Decode Messages](#9-encode-and-decode-messages)
 10. [Furniture](#10-furniture)
+11. [Contributing](#Contributing)
+12. [License](#License)
+13. [Contact](#Contact)
 
 ## 1. Subtraction
 Create a function to subtract values from two input fields and display the result.
