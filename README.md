@@ -1,4 +1,6 @@
 # Exercise: DOM and Events
+### This is a project for Front-End Technologies May 2024 Course @ SoftUni
+---
 
 ## Table of Contents
 1. [Subtraction](#1-subtraction)
