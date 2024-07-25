@@ -23,34 +23,34 @@
 13. [Contact](#Contact)
 
 ## Subtraction
-Create a function to subtract values from two input fields and display the result.
+Creates a function to subtract values from two input fields and displays the result.
 
 ## Pascal or Camel Case
-Write a function that converts a string to Pascal Case or Camel Case based on a specified parameter.
+Writes a function that converts a string to Pascal Case or Camel Case based on a specified parameter.
 
 ## Accordion
-Implement a toggleable show/hide functionality for a hidden div when a button is clicked.
+Implements a toggleable show/hide functionality for a hidden div when a button is clicked.
 
 ## Search in List
-Develop a search function that highlights matching items in a list and displays the number of matches.
+Develops a search function that highlights matching items in a list and displays the number of matches.
 
 ## Sections
-Create div elements for each string in an array, with paragraphs that are initially hidden and displayed on click.
+Creates div elements for each string in an array, with paragraphs that are initially hidden and displayed on click.
 
 ## Time Converter
-Add click event listeners to buttons that convert time units and update corresponding input fields.
+Adds click event listeners to buttons that converts time units and updates corresponding input fields.
 
 ## Locked Profile
-Create functionality to show/hide additional user information based on profile lock status.
+Creates functionality to show/hide additional user information based on profile lock status.
 
 ## Fill Dropdown
-Take values from input fields and create options in a dropdown menu.
+Takes values from input fields and creates options in a dropdown menu.
 
 ## Encode and Decode Messages
-Implement functions to encode a message by shifting ASCII values and decode it by reversing the shift.
+Implements functions to encode a message by shifting ASCII values and decodes it by reversing the shift.
 
 ## Furniture
-Generate a table from an array of furniture objects and implement a buy functionality that calculates total price and average decoration factor.
+Generates a table from an array of furniture objects and implements a buy functionality that calculates total price and average decoration factor.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
