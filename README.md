@@ -48,3 +48,12 @@ Implement functions to encode a message by shifting ASCII values and decode it b
 ## 10. Furniture
 Generate a table from an array of furniture objects and implement a buy functionality that calculates total price and average decoration factor.
 
+## Contributing
+Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or suggestions, please open an issue in the repository.
+
