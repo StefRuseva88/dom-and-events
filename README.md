@@ -7,19 +7,19 @@
 ---
 
 ## Table of Contents
-1. [Subtraction](#subtraction)
-2. [Pascal or Camel Case](#pascal-or-camel-case)
-3. [Accordion](#accordion)
-4. [Search in List](#search-in-list)
-5. [Sections](#sections)
-6. [Time Converter](#time-converter)
-7. [Locked Profile](#locked-profile)
-8. [Fill Dropdown](#fill-dropdown)
-9. [Encode and Decode Messages](#encode-and-decode-messages)
-10. [Furniture](#furniture)
-11. [Contributing](#Contributing)
-12. [License](#License)
-13. [Contact](#Contact)
+- [Subtraction](#subtraction)
+- [Pascal or Camel Case](#pascal-or-camel-case)
+- [Accordion](#accordion)
+- [Search in List](#search-in-list)
+- [Sections](#sections)
+- [Time Converter](#time-converter)
+- [Locked Profile](#locked-profile)
+- [Fill Dropdown](#fill-dropdown)
+- [Encode and Decode Messages](#encode-and-decode-messages)
+- [Furniture](#furniture)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Contact](#Contact)
 
 ## Subtraction
 Creates a function to subtract values from two input fields and displays the result.
