@@ -25,7 +25,7 @@
 Creates a simple function that takes values from two input fields, subtracts the second number from the first, and then displays the result in a designated field on the page. This exercise helps in manipulating DOM elements, retrieving values from inputs, and dynamically updating content. It is a basic example of event handling and DOM interaction.
 
 ## Pascal or Camel Case
-This function takes an input string and converts it into either Pascal Case (where each word starts with a capital letter, e.g., PascalCase) or Camel Case (where the first word is lowercase, and subsequent words start with capital letters, e.g., camelCase). The conversion depends on a parameter or selection input. This task introduces string manipulation, conditional logic, and user-defined functions for transforming data in response to user inputs.
+This function takes an input string and converts it into either Pascal Case (where each word starts with a capital letter, e.g., `PascalCase`) or Camel Case (where the first word is lowercase, and subsequent words start with capital letters, e.g., `camelCase`). The conversion depends on a parameter or selection input. This task introduces string manipulation, conditional logic, and user-defined functions for transforming data in response to user inputs.
 
 ## Accordion
 Implements a collapsible accordion, where each section contains a button that can toggle the visibility of the associated content. When the user clicks the button, a hidden div expands to reveal the content, and clicking again hides it. This exercise focuses on dynamically changing CSS properties and class states using JavaScript, enhancing the interactivity of the user interface.
