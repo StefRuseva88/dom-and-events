@@ -25,22 +25,22 @@
 Creates a simple function that takes values from two input fields, subtracts the second number from the first, and then displays the result in a designated field on the page. This exercise helps in manipulating DOM elements, retrieving values from inputs, and dynamically updating content. It is a basic example of event handling and DOM interaction.
 
 ## Pascal or Camel Case
-This function takes an input string and converts it into either Pascal Case (where each word starts with a capital letter, e.g., `PascalCase`) or Camel Case (where the first word is lowercase, and subsequent words start with capital letters, e.g., `camelCase`). The conversion depends on a parameter or selection input. This task introduces string manipulation, conditional logic, and user-defined functions for transforming data in response to user inputs.
+This function takes an input string and converts it into either Pascal Case (where each word starts with a capital letter, e.g., `PascalCase`) or Camel Case (where the first word is lowercase, and subsequent words start with capital letters, e.g., `camelCase`). The conversion depends on a selection input. This task introduces string manipulation, conditional logic, and user-defined functions for transforming data in response to user inputs.
 
 ## Accordion
-Implements a collapsible accordion, where each section contains a button that can toggle the visibility of the associated content. When the user clicks the button, a hidden div expands to reveal the content, and clicking again hides it. This exercise focuses on dynamically changing CSS properties and class states using JavaScript, enhancing the interactivity of the user interface.
+Implements a collapsible accordion, where each section contains a button that can toggle the visibility of the associated content. When the user clicks the button, a hidden `<div>` expands to reveal the content, and clicking again hides it. This exercise focuses on dynamically changing CSS properties and class states using JavaScript, enhancing the interactivity of the user interface.
 
 ## Search in List
 Develops a search function that allows users to type in a search query and highlights matching items in a list. It also displays the number of matches found. This task involves iterating over DOM elements, comparing text values, and modifying styles dynamically to indicate matches. This exercise is useful for building searchable lists or tables in web applications.
 
 ## Sections
-Dynamically generates div elements from an array of strings, each containing a hidden paragraph of text. When a section is clicked, its corresponding paragraph is revealed. This task combines DOM manipulation, event handling, and working with arrays to create interactive content based on user actions, simulating dynamic content loading in modern web apps.
+Dynamically generates `<div>` elements from an array of strings, each containing a hidden paragraph of text. When a section is clicked, its corresponding paragraph is revealed. This task combines DOM manipulation, event handling, and working with arrays to create interactive content based on user actions, simulating dynamic content loading in modern web apps.
 
 ## Time Converter
 This exercise introduces a time conversion tool where buttons allow users to convert time units between seconds, minutes, hours, and days. When a button is clicked, the function calculates the equivalent time in the chosen unit and updates the respective input field. It highlights the concept of event delegation, value conversion logic, and synchronizing multiple input fields based on user input.
 
 ## Locked Profile
-Builds a user profile card where additional information about the user is hidden by default and can be shown or hidden depending on the profile's "locked" status. If the profile is locked, the information remains hidden, and only when it is unlocked (via a radio button or similar control) can the additional content be revealed. This task simulates privacy settings in user interfaces and demonstrates conditional rendering based on user inputs.
+Builds a user profile card where additional information about the user is hidden by default and can be shown or hidden depending on the profile's "locked" status. If the profile is locked, the information remains hidden, and only when it is unlocked (via a radio button) the additional content will be revealed. This task simulates privacy settings in user interfaces and demonstrates conditional rendering based on user inputs.
 
 ## Fill Dropdown
 Takes values from input fields and creates options in a dropdown menu.
