@@ -52,9 +52,6 @@ Implements two functions: one for encoding a message by shifting ASCII values of
 ## Furniture
 Generates a table displaying a list of furniture items from an array of objects, each object containing properties such as name, price, and decoration factor. The exercise also includes functionality for selecting items to "buy," which calculates the total price and the average decoration factor of selected items. This task combines DOM manipulation with more complex data handling, such as summing values and calculating averages, and demonstrates how to create interactive tables in web interfaces.
 
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
